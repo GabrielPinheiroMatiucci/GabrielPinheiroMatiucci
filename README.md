@@ -1,7 +1,7 @@
-<h1 align="center">Oi, Eu sou o Gabriel</h1>
+<h1 align="center">Olá</h1>
 <h3 align="center">Procuro uma oportunidade para atuar como desenvolvedor.</h3>
 
-- 🌱 Eu estou estudando: **Python e PHP**
+- 🌱 Eu estou estudando: **PHP e C#**
 
 - 📫 Contatos **https://www.linkedin.com/in/gabriel-pinheiro-1505/ e Gabriel_1505@outlook.com**
 
