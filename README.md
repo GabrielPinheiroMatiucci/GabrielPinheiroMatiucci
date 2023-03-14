@@ -1,9 +1,7 @@
 <h1 align="center">Olá</h1>
 <h3 align="center">Procuro uma oportunidade para atuar como desenvolvedor.</h3>
 
-- 🌱 Eu estou estudando: **C# e .NET**
-
-- 📫 Contatos **https://www.linkedin.com/in/gabriel-pinheiro-1505/ e Gabriel_1505@outlook.com**
+- 📫 Contato **Gabriel_1505@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
