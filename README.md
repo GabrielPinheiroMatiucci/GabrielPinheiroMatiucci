@@ -1,7 +1,6 @@
-<h1 align="center">Olá</h1>
-<h3 align="center">Procuro uma oportunidade para atuar como desenvolvedor.</h3>
+<h1 align="center">Hello</h1>
 
-- 📫 Contato **Gabriel_1505@outlook.com**
+- 📫 E-mail **Gabriel_1505@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
